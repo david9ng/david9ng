@@ -1,0 +1,2 @@
+- Hi, my name is David
+- I am currently studying Computer Science at the Charles University in Prague
